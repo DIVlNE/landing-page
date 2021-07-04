@@ -1,0 +1,21 @@
+.navbar .navbar-nav .nav-link:not(.btn) i.fa{
+      font-size: 18px;
+      position: relative;
+      top: 3px;
+      text-align: center;
+      width: 21px;
+    }
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+ h4 {
+ 	font-size: 2rem;
+ 	color: darkblue;
+
+ }
+
+
+
